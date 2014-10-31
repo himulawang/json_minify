@@ -1,0 +1,8 @@
+name: json_minify
+version: 1.0.0
+authors:
+- ila <himulawang@gmail.com>
+homepage: https://github.com/himulawang/json_minify
+description: JSON minify
+environment:
+  sdk: ">=1.7.0"
